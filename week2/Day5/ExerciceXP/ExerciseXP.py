@@ -25,3 +25,5 @@
 # Create an object called sarahs_dog. Her dog’s name is “Teacup” and his height is 20cm.
 # Print the details of her dog (ie. name and height) and call the methods bark and jump.
 # Create an if statement outside of the class to check which dog is bigger. Print the name of the bigger dog.
+
+print("hi")
