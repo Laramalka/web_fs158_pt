@@ -27,3 +27,4 @@
 # Create an if statement outside of the class to check which dog is bigger. Print the name of the bigger dog.
 
 print("hi")
+print("hi")
